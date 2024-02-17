@@ -14,4 +14,6 @@ A simple yet creative solution to track our day-today expenses and plan our expe
   4. Store Items which you want to buy in future in the wishlist and in the end of each month if the savings which will be calculated by deducting total expenses in that month from total salary ,it will give you recommendations of those items.
   5. Get summation of your daily expense.
 
-## demo video:
+## Contributors:
+Snehal Athaghara[Snehal](https://github.com/Snehal2815)
+Trupti Bankar
