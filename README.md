@@ -15,5 +15,5 @@ A simple yet creative solution to track our day-today expenses and plan our expe
   5. Get summation of your daily expense.
 
 ## Contributors:
-Snehal Athaghara[Snehal](https://github.com/Snehal2815)
-Trupti Bankar
+  + [Snehal Athaghara](https://github.com/Snehal2815)
+  + Trupti Bankar
