@@ -14,6 +14,14 @@ A simple yet creative solution to track our day-today expenses and plan our expe
   4. Store Items which you want to buy in future in the wishlist and in the end of each month if the savings which will be calculated by deducting total expenses in that month from total salary ,it will give you recommendations of those items.
   5. Get summation of your daily expense.
 
+## Technologies used:
+  1. Python
+  2. tkinter
+  3. SQL
+     
 ## Contributors:
   + [Snehal Athaghara](https://github.com/Snehal2815)
-  + Trupti Bankar
+  + [Trupti Bankar](https://github.com/BankarTrupti)
+
+## NOTE:
+This is a mini project developed for academic purposes.
